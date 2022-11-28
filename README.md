@@ -1,2 +1,1 @@
-# Practice
-Layout and Animations with CSS
+# Practice - Layout and Animations with CSS
